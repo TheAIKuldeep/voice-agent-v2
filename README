@@ -1,0 +1,22 @@
+# LCA Voice Agent
+
+AI-powered voice agent for healthcare franchise appointment booking and customer service.
+
+## Features
+- Intelligent appointment scheduling
+- Multi-person booking logic
+- Payment processing integration
+- Natural conversation flow
+- Automated workflow orchestration
+
+## Tech Stack
+- **ElevenLabs** - Voice AI platform
+- **N8N** - Workflow automation and API orchestration
+- **Meevo API** - Appointment scheduling integration
+- **Stripe** - Payment processing
+- **Node.js** - Backend runtime
+
+## Quick Start
+```bash
+npm install
+npm run dev
